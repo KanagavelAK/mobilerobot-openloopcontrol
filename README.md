@@ -20,7 +20,6 @@ Outside the if _name_ == '_main_': block, add procedure_name() to execute the pr
 End the program.
 
 ## Program
-## Program
 ```python
 Developed by: Kanagavel A K
 Register no: 212223230096
@@ -104,9 +103,6 @@ https://youtu.be/adctuwXHJtA?si=lOdTygxUR5ah5IQZ
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
-
-<br/>
-<br/>
 
 ```
 Mobile Robotics Laboratory
